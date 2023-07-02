@@ -1,6 +1,14 @@
 # Data Analyst
 
+## Education
+**GRADUATE CLASSES IN COMPUTER SCIENCE @ University of Kentucky**
 
+- I have completed the Discrete Mathematics course (CS 275) at UKY which was a prerequisite for conditional admission into the CS master’s Program.
+
+**BACHELOR OF SCIENCE IN COMPUTER SCIENCE @ Mansoura University**
+
+- Majors: Information Systems
+  
 ## Projects
 **CUSTOMER CHURN ANALYSIS**
 -	Utilized Python to analyze 7000 data science job listings and gain insights on what it takes to land a job in analytics.
@@ -19,7 +27,7 @@
 
 ## Work Experience
 
-**ADMINISTRATIVE ASSISTANT @ McKesson - Jacksonville, FL	(_Sep 2022 – June 2023_)**
+**Data Coordinator @ McKesson - Jacksonville, FL	(_Sep 2022 – June 2023_)**
 -	Managed the end-to-end photo request workflow, including receiving, reviewing, and coordinating photo requests from Alternative Sourcing Vendors (ASVs), ensuring timely delivery and adherence to quality standards.
 -	Utilized MS Access to extract photo request data, providing accurate and up-to-date information on open requests, enabling efficient tracking and monitoring of ASV performance.
 -	Leveraged MS Excel to organize and analyze data related to photo requests, generating insightful reports and summaries to support decision-making processes within the ASV team.
@@ -30,7 +38,7 @@
 -	Collaborated with team members to ensure accurate inventory management, including restocking shelves and coordinating with distribution centers for timely product replenishment.
 -	Collaborated with team members to maintain an organized sales floor, optimizing the overall customer experience.
   
-**DATA ANALYST @ KTC at University of Kentucky – Lexington, KY 	(_Sep 2019 – May 2020_)**
+**DATA ANALYST @ Kentucky Transportation Center (KTC) – Lexington, KY 	(_Sep 2019 – May 2020_)**
 -	Reviewed and updated account information in company computer system. 
 -	Completed quality assurance reviews to assess accuracy of data and validate results. 
 -	Formulated, defined and documented system specifications.
@@ -46,11 +54,4 @@
 -	BI Tools (Microsoft Power BI, Tableau, Power Query)
 -	Microsoft 365 (Access, PowerPoint, SharePoint, Outlook, Teams) 
 
-## Education
-### GRADUATE CLASSES IN COMPUTER SCIENCE – University of Kentucky – Lexington, KY 	
 
-- I have completed the Discrete Mathematics course (CS 275) at UKY which was a prerequisite for conditional admission into the CS master’s Program.
-
-### BACHELOR OF SCIENCE IN COMPUTER SCIENCE – Mansoura University – Mansoura, EGYPT 	
-
-- Majors: Information Systems 
