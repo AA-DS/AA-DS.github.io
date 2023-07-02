@@ -1,3 +1,5 @@
 title: Ahmed Abdullatif
-logo: assets/img/LinkedIn Picture.jpg
-theme: jekyll-theme-cayman
+logo: /assets/img/LinkedIn Picture.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
