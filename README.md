@@ -1,13 +1,17 @@
+# Data Analyst
+
 ## Projects
-### CUSTOMER CHURN ANALYSIS – Personal Project – Jacksonville, FL	April 2023
+**CUSTOMER CHURN ANALYSIS**
 -	Utilized Python to analyze 7000 data science job listings and gain insights on what it takes to land a job in analytics.
 -	Implemented Regex techniques to comb through the job descriptions and identified the key requirements.
 -	Aggregated and visualized the data by using pandas, matplotlib and wordcloud to compile a professional report.
-### EXECUTIVE KPI DASHBOARD FOR NORTHWIND TRADERS – Personal Project – Jacksonville, FL	May 2023
+  
+**EXECUTIVE KPI DASHBOARD FOR NORTHWIND TRADERS**
 -	Created an interactive KPI dashboard for Northwind Traders using Power BI, focusing on sales trends, product performance, key customers, and shipping costs.
 -	Performed ETL (Extract, Transform, Load) operations using Power Query in Power BI to clean and transform data from the 7 Excel tables, ensuring data accuracy and consistency.
 -	Presented the dashboard to the executive team, offering actionable recommendations based on the analyzed data, thereby enabling data-driven decision-making for Northwind Traders.
-### SALES PERFORMANCE ANALYSIS – Personal Project – Jacksonville, FL 	November 2019
+  
+**SALES PERFORMANCE ANALYSIS**
 -	Utilized SQL to extract data from 8 different related tables from customer sales databases using JOIN and VIEW.
 -	Transformed and filtered data by using aggregating and filtering function to improve reporting process.
 -	Loaded and visualized data with Python to identify key business intelligences that can improve sales performance.
@@ -23,7 +27,8 @@
 ### CUSTOMER SUCCESS – THE HOME DEPOT – Jacksonville, FL 	July 2022 - Present
 -	Assisted customers in-store and over the phone, demonstrating knowledge of supply chain processes and effectively communicating product availability and delivery timelines.
 -	Collaborated with team members to ensure accurate inventory management, including restocking shelves and coordinating with distribution centers for timely product replenishment.
--	Collaborated with team members to maintain an organized sales floor, optimizing the overall customer experience.	
+-	Collaborated with team members to maintain an organized sales floor, optimizing the overall customer experience.
+  
 ### DATA ANALYST – KTC at University of Kentucky – Lexington, KY 	Sep 2019 – May 2020
 -	Reviewed and updated account information in company computer system. 
 -	Completed quality assurance reviews to assess accuracy of data and validate results. 
