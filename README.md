@@ -1,5 +1,6 @@
 # Data Analyst
 
+
 ## Projects
 **CUSTOMER CHURN ANALYSIS**
 -	Utilized Python to analyze 7000 data science job listings and gain insights on what it takes to land a job in analytics.
@@ -18,18 +19,18 @@
 
 ## Work Experience
 
-### ADMINISTRATIVE ASSISTANT – McKesson – Jacksonville, FL	Sep 2022 – Present
+**ADMINISTRATIVE ASSISTANT @ McKesson - Jacksonville, FL	(_Sep 2022 – June 2023_)**
 -	Managed the end-to-end photo request workflow, including receiving, reviewing, and coordinating photo requests from Alternative Sourcing Vendors (ASVs), ensuring timely delivery and adherence to quality standards.
 -	Utilized MS Access to extract photo request data, providing accurate and up-to-date information on open requests, enabling efficient tracking and monitoring of ASV performance.
 -	Leveraged MS Excel to organize and analyze data related to photo requests, generating insightful reports and summaries to support decision-making processes within the ASV team.
 -	Utilized Snowflake to extract and analyze data, gaining valuable insights into photo request patterns and trends, and presenting findings to support process optimization and operational efficiency improvements.
 
-### CUSTOMER SUCCESS – THE HOME DEPOT – Jacksonville, FL 	July 2022 - Present
+**Sales Associate @ THE HOME DEPOT – Jacksonville, FL 	(_July 2022 - Present_)**
 -	Assisted customers in-store and over the phone, demonstrating knowledge of supply chain processes and effectively communicating product availability and delivery timelines.
 -	Collaborated with team members to ensure accurate inventory management, including restocking shelves and coordinating with distribution centers for timely product replenishment.
 -	Collaborated with team members to maintain an organized sales floor, optimizing the overall customer experience.
   
-### DATA ANALYST – KTC at University of Kentucky – Lexington, KY 	Sep 2019 – May 2020
+**DATA ANALYST @ KTC at University of Kentucky – Lexington, KY 	(_Sep 2019 – May 2020_)**
 -	Reviewed and updated account information in company computer system. 
 -	Completed quality assurance reviews to assess accuracy of data and validate results. 
 -	Formulated, defined and documented system specifications.
